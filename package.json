@@ -1,0 +1,29 @@
+{
+  "name": "cl-chatbot-research",
+  "version": "1.0.0",
+  "description": "\"Build a chatbot on Node.js with Microsoft Bot Framework.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochadwi/cl-chatbot-research.git"
+  },
+  "keywords": [
+    "chatbot",
+    "microsoft",
+    "azure",
+    "twikipedia"
+  ],
+  "author": "mochadwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochadwi/cl-chatbot-research/issues"
+  },
+  "homepage": "https://github.com/mochadwi/cl-chatbot-research#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
