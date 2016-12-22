@@ -24,6 +24,7 @@
   "homepage": "https://github.com/mochadwi/cl-chatbot-research#readme",
   "dependencies": {
     "botbuilder": "^3.4.4",
-    "restify": "^4.3.0"
+    "express": "^4.14.0",
+    "twitter": "^1.7.0"
   }
 }
